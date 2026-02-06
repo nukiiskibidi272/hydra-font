@@ -2,12 +2,18 @@
   "name": "Atlantis",
   "downloads": [
     {
-      "title": "Slime Rancher",
+      "title": "Slime Rancher .RAR",
       "uris": [
         "https://www.mediafire.com/file/eev2nm23hjbs9xw/Slime-Rancher-Steamrip.com.rar/file"
       ],
       "uploadDate": "2026-02-03T23:00:00.000Z",
       "fileSize": "850 MB"
+    },
+    {
+      "title": "Touhou Luna Nights [Pre-Instalado] ",
+      "uris": ["https://www.mediafire.com/file/vaeqdj8fyh4edcv"],
+      "uploadDate": "2025-04-19T20:00:00.000Z",
+      "fileSize": "1.18 GB"
     }
   ]
 }

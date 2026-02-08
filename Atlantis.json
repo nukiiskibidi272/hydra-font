@@ -29,7 +29,7 @@
     },
     {
       "title": "Grand Theft Auto V Enhanced Portable",
-      "uris": "magnet:?xt=urn:btih:f741e6cd3423fc131820856e902963d1fa2a589c",
+      "uris": ["magnet:?xt=urn:btih:f741e6cd3423fc131820856e902963d1fa2a589c"],
       "uploadDate": "2026-02-07T23:00:00.000Z",
       "fileSize": "100 GB"
     },
